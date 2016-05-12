@@ -1,0 +1,3 @@
+include ':app', ':SociomanticAndroidSDK-1.02'
+
+project(':SociomanticAndroidSDK-1.02').projectDir = new File('libraries/SociomanticAndroidSDK-1.02')
